@@ -1,0 +1,8 @@
+.QrComponent {
+    background-color: var(--white);
+
+    border-radius: 20px;
+    padding: 1.3rem;
+    margin: 1.5rem;
+    box-shadow: 0 10px 15px hsl(213, 20%, 82%);
+}

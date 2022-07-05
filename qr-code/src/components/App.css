@@ -1,0 +1,9 @@
+.App {
+    min-height: 100%;
+}
+
+@media (min-width: 375px) {
+    .App {
+        max-width: 400px;
+    }
+}
